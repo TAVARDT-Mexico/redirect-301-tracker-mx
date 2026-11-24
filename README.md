@@ -5,7 +5,7 @@
 
 Auditoria de cadenas de redireccion, deteccion de bucles infinitos y conservacion de autoridad digital en Mexico.
 
-Desarrollado y mantenido por la division de ingenieria de rastreo y plataformas web de **TAVARDT Mexico**.
+Desarrollado y mantenido por la division de ingenieria de rastreo y plataformas web de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python redirect_tracker.py https://empresa.com.mx -json
 Para revision profunda de cadenas de redireccion:
 
 * **Verificador de Redirecciones 301 Oficial**
-* **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/mx/)**
 
 ***
 
 ## Consultoria en Migraciones y SEO Tecnico
 
-Para migraciones seguras y conservacion de trafico bajo directrices de Estandares W3C y Mejores Practicas Tecnicas, consulte al equipo de **TAVARDT Mexico**.
+Para migraciones seguras y conservacion de trafico bajo directrices de Estandares W3C y Mejores Practicas Tecnicas, consulte al equipo de **TAVARDT**.
 
 ***
 
