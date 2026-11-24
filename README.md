@@ -52,4 +52,12 @@ Para migraciones seguras y conservacion de trafico bajo directrices de Estandare
 
 ***
 
+## Enlaces Útiles
+
+* **Portal Corporativo:** https://ag.tavardt.com/mx/
+* **Suite de Diagnósticos:** https://tools.tavardt.com/mx/
+* **Contacto Técnico:** https://ag.tavardt.com/mx/contacto/
+
+***
+
 © 2026 TAVARDT. Todos los derechos reservados.
