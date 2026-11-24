@@ -24,7 +24,7 @@ Desarrollado y mantenido por la division de ingenieria de rastreo y plataformas 
 Requiere Python 3.8 o superior sin dependencias externas.
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/redirect-301-tracker-mx.git
+git clone https://github.com/TAVARDT/redirect-301-tracker-mx.git
 cd redirect-301-tracker-mx
 python redirect_tracker.py https://empresa.com.mx
 ```
