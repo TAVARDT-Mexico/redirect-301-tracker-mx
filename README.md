@@ -1,14 +1,13 @@
 # Verificador de Redirecciones HTTP 301/302 y Cadenas de Saltos
 
 [![Verificador Redirecciones](https://img.shields.io/badge/TAVARDT-Redirect%20301-5b3cf5.svg)](https://tools.tavardt.com/mx/verificador-redirecciones-301/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Mexico-00C853.svg)](https://ag.tavardt.com/mx/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria de cadenas de redireccion, deteccion de bucles infinitos y conservacion de autoridad digital en Mexico.
 
-Desarrollado y mantenido por la division de ingenieria de rastreo y plataformas web de **[TAVARDT Mexico](https://ag.tavardt.com/mx/)**.
+Desarrollado y mantenido por la division de ingenieria de rastreo y plataformas web de **TAVARDT Mexico**.
 
----
+***
 
 ## Capacidades de Auditoria de Redirecciones HTTP
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por la division de ingenieria de rastreo y plataformas 
 * **Control de Seguridad de Protocolo**: Deteccion de degradaciones temporales a HTTP inseguro.
 * **Puntuacion de Eficiencia de Redireccion**: Indice cuantitativo de 0 a 100 con recomendaciones tecnicas priorizadas.
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -33,20 +32,20 @@ python redirect_tracker.py https://empresa.com.mx
 Para generar salida estructurada JSON:
 
 ```bash
-python redirect_tracker.py https://empresa.com.mx --json
+python redirect_tracker.py https://empresa.com.mx -json
 ```
 
----
+***
 
 ## Diagnostico Completo en la Web
 
 Para revision profunda de cadenas de redireccion:
 
-* **[Verificador de Redirecciones 301 Oficial](https://tools.tavardt.com/mx/verificador-redirecciones-301/)**
+* **Verificador de Redirecciones 301 Oficial**
 * **[Portal Corporativo TAVARDT Mexico](https://ag.tavardt.com/mx/)**
 
----
+***
 
 ## Consultoria en Migraciones y SEO Tecnico
 
-Para migraciones seguras y conservacion de trafico bajo directrices de Estandares W3C y Mejores Practicas Tecnicas, consulte al equipo de **[TAVARDT Mexico](https://ag.tavardt.com/mx/contacto/)**.
+Para migraciones seguras y conservacion de trafico bajo directrices de Estandares W3C y Mejores Practicas Tecnicas, consulte al equipo de **TAVARDT Mexico**.
